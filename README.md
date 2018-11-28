@@ -1,2 +1,4 @@
 # JC-Video-Production
 Jackson Christian Video Production website
+
+      I met with my client Collin Hill and we talked about this website numerous times over the course of its production. We wanted a look that matched the standards of every other JCS webpage but with a little “extra” something to it. To achieve this, we made sure you could easily find almost all the information about the club on this webpage to ensure minimal confusion about anything. We even included a calendar page so that possible clients could see what was going on in the club overtime. The colour scheme and overall website style was predetermined by the JCS team before production began. A video page was added to store all the YouTube videos in an easy-to-read format and to show off the expertise of the students works. 
